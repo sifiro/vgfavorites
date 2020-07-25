@@ -1,5 +1,4 @@
 
-## Juegos Favoritos (& placeres culpables)
 Norma General: 
 Creo que esto suele ser por norma general, los bonificadores de que probablemente juegue a un juego
 | Descripcion			| PB	|
@@ -35,6 +34,7 @@ Por cierto, hay juegos que no esten lista que haya disfrutado pero que no puedo 
 |![](https://steamcdn-a.akamaihd.net/steam/apps/237930/library_600x900_2x.jpg?t=1576864036)| Transistor | PC/PS3/X360/Vita/PS4/XBO/Switch | Los Juegos de Supergigant me suele gustar (de los que he jugado), pero Transistor son de lo que me llaman más |
 |![](https://personacentral.com/wp-content/uploads/2015/10/Odin-Sphere-Leifthrasir-PS4.jpg)| [Vanillaware Games](https://en.wikipedia.org/wiki/Vanillaware#Games_developed) | (Saturn?)/PS2/PS3/Vita/PS4 | Simplemente son juegos top-tier en diseño de personajes y world-building, De todos los juegos problablmente la mas floja sea Dragon's Crown y probablemente el que viene de camino a occidente "13 Sentinels: Aegis Rim" sea awesome. |
 |![](https://cdn.steamgriddb.com/grid/41b0e80184458aa241c2ad2a5103bae6.png)| Valkyria Chronicles Saga | PS3/PS4/PC (1&4) && PSP/Vita(via PSPEmu) 2&3(Only in Japanese but fan-translated) |
+![](https://steamcdn-a.akamaihd.net/steam/apps/477740/library_600x900_2x.jpg?t=1576561526) | Zero Escape Saga | NDS/3DS/VITA/PC |  | |
 ## Juegos / Saga que probablemente me gustasen pero no los he jugado.
 
 ### Mencion especial a Idolm@ster (Ya podrían estar traduciéndose desde el éxito en occidente de Love Live en móviles), y tampoco deberían estar estorbando a los fans encriptando los datos de la versiones de Sobremesa
@@ -45,4 +45,5 @@ Por cierto, hay juegos que no esten lista que haya disfrutado pero que no puedo 
 |	  | Drakengard/Nier	| PS3/PS4/PC	| Probablmente espere a Nier Remastered, mientras juego a Drakengard 3 (en corto plazo) y dependiendo del estado o espere a Nier o juegue directamente Automata|
 |	 | Persona		|		| Es una saga que intentado meterme varias veces con Persona 3 quedandome atascado en la torre por no saber como continuar, Probablemente lo intente con Persona 4 debido a su poca duracion respecto a Persona5 aún asi tengo comprado Persona 5 3 veces (Steelbook, Ultimate Digital, 5R Steelbook), asi que intentare encontrar un hueco para jugar 172H como dice [Reseñas Cortas](https://twitter.com/ResenasCortas/status/1282285004266115074)|
 |	| Sakura Wars/Tensei	| Saturn/PS4	| Mi principal problema [es este](/img/meme.jpg), por no mencionar que la traduccion española del (Shin) Sakura Wars (2019) le mete un rollo casanova casposo que me hizo decepcionarme haciendo que casi le metia un -5 (que encima alguien se mosqueo por mi desagrado en un foro, que en fin whatever), aunque se arreglo viendo la traduccion Inglesa del trailer, Aún asi, le quiero dar una oportunidad. |
+| | Danganronpa | | La gente que le suele gustar Zero Escape le suele gustar este tambien asi que~~~~ |
 
